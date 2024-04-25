@@ -5,13 +5,17 @@
 <img align="right" alt="There was a cube here I swear!" width="340" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarrokhnejad&label=Profile%20views&color=0e75b6&style=flat" alt="iamfarrokhnejad" /> </p>
 
+
 - 🌱 I’m currently learning **Mobile Ad Hoc Networks**
 
 - 📝 My articles: [https://orcid.org/0009-0004-6231-2402](https://orcid.org/0009-0004-6231-2402)
 
-- 💬 Ask me about **Backend development, Computer Networks, Neural Networks/Deep Learning**
+- 💬 Ask me about **Backend development, Computer Networks, and Neural Networks/Deep Learning**
 
 - 📫 Contact: **iamfarrokhnejad@gmail.com**
+
+-👨‍💻 Portfolio website coming soon... : 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfarrokhnejad&show_icons=true&locale=en&layout=compact" alt="iamfarrokhnejad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfarrokhnejad&show_icons=true&locale=en" alt="iamfarrokhnejad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamfarrokhnejad&" alt="iamfarrokhnejad" /></p>
