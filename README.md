@@ -10,7 +10,7 @@
 
 - 📝 My articles: [https://orcid.org/0009-0004-6231-2402](https://orcid.org/0009-0004-6231-2402)
 
-- 💬 Ask me about **Backend development, Computer Networks, and Neural Networks/Deep Learning**
+- 💬 Ask me about **System Design, Backend development, Computer Networks, and Neural Networks/Deep Learning**
 
 - 📫 Contact: **iamfarrokhnejad@gmail.com**
 
