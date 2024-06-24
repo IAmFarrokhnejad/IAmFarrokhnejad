@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarrokhnejad&label=Profile%20views&color=096f30&style=for-the-badge" alt="iamfarrokhnejad" /> </p>
 
 
-- 🌱 I’m currently learning **Federated Learning**
+- 🌱 I’m currently learning **Generative Adversarial Networks**
 
 - 📝 My articles: [https://orcid.org/0009-0004-6231-2402](https://orcid.org/0009-0004-6231-2402)
 
-- 💬 Ask me about **Backend development, Computer Networks, and Neural Networks/Deep Learning**
+- 💬 Ask me about **Backend Development, Computer Networks, Functional Programming, and Deep Learning**
 
 - 📫 Contact: **iamfarrokhnejad@gmail.com**
 
