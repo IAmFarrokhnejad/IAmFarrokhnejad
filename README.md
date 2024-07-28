@@ -1,7 +1,7 @@
 ![MasterHead](https://rightprompt.ai/images/banner7.gif)
 
 <h1 align="center">Hi ⚡, I'm Morteza Farrokhnejad</h1>
-<h3 align="center">A diligent Engineer</h3>
+<! -- THE TEXT HAS TO BE INSIDE AN H3 TAG AND SHOULD BE ALIGNED TO CENTER A diligent Engineer -->
 <img align="right" alt="There was a cube here, I swear!" width="340" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarrokhnejad&label=Profile%20views&color=096f30&style=for-the-badge" alt="iamfarrokhnejad" /> </p>
 
