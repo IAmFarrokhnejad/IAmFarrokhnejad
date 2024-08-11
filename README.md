@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif)
+![MasterHead](https://38.media.tumblr.com/3428f0477cfaad1bb439a82ba30990cf/tumblr_n9yyjcT3pl1th1t41o1_1280.gif)
 
 <h1 align="center">Hi ⚡, I'm Morteza Farrokhnejad</h1>
 <! -- THE TEXT HAS TO BE INSIDE AN H3 TAG AND SHOULD BE ALIGNED TO CENTER A diligent Engineer -->
