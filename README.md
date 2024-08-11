@@ -1,4 +1,4 @@
-![MasterHead](https://rightprompt.ai/images/banner7.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif)
 
 <h1 align="center">Hi ⚡, I'm Morteza Farrokhnejad</h1>
 <! -- THE TEXT HAS TO BE INSIDE AN H3 TAG AND SHOULD BE ALIGNED TO CENTER A diligent Engineer -->
