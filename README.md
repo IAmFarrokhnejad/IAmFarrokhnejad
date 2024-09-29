@@ -14,7 +14,7 @@
 
 - 📫 Contact: **iamfarrokhnejad@gmail.com**
 
-- 👨‍💻 Portfolio website coming soon... 
+<!-- - 👨‍💻 Portfolio website coming soon... -->	
 
 
 <h3 align="left">Connect with me:</h3>
