@@ -30,6 +30,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=iamfarrokhnejad&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&hide_border=true&order=1" style="width: 33%;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarrokhnejad&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 33%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfarrokhnejad&theme=gotham&hide_border=true" alt="Streak Stats" style="width: 33%;"/>
-
+  <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfarrokhnejad&theme=gotham&hide_border=true" alt="Streak Stats" style="width: 33%;"/>
+-->
 </div>
