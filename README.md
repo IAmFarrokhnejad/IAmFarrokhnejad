@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Encoder-Decoder Sequence to Sequence Model**
 
-- 📝 My articles: [https://orcid.org/0009-0004-6231-2402](https://orcid.org/0009-0004-6231-2402)
+- 📝 My publications: [https://orcid.org/0009-0004-6231-2402](https://orcid.org/0009-0004-6231-2402)
 
 - 💬 Ask me about **Backend Development, Computer Networks, Functional Programming, and Deep Learning**
 
