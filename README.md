@@ -1,7 +1,7 @@
 ![MasterHead](https://38.media.tumblr.com/3428f0477cfaad1bb439a82ba30990cf/tumblr_n9yyjcT3pl1th1t41o1_1280.gif)
 
 <h1 align="center">Hi ⚡, I'm Morteza Farrokhnejad</h1>
-<! -- THE TEXT HAS TO BE INSIDE AN H3 TAG AND SHOULD BE ALIGNED TO CENTER A diligent Engineer -->
+<h3 align="center"> A Full Stack Web Developer and a Researcher</h3>
 <img align="right" alt="There was a cube here, I swear!" width="340" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarrokhnejad&label=Profile%20views&color=096f30&style=for-the-badge" alt="iamfarrokhnejad" /> </p>
 
@@ -10,11 +10,10 @@
 
 - 📝 My publications: [https://orcid.org/0009-0004-6231-2402](https://orcid.org/0009-0004-6231-2402)
 
-- 💬 Ask me about **Backend Development, Computer Networks, Functional Programming, and Deep Learning**
+- 💬 Ask me about **Web Application Development, Deep Learning, Functional Programming, and Computer Networks.**
 
 - 📫 Contact: **iamfarrokhnejad@gmail.com**
 
-<!-- - 👨‍💻 Portfolio website coming soon... -->	
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
