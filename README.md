@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarrokhnejad&label=Profile%20views&color=096f30&style=for-the-badge" alt="iamfarrokhnejad" /> </p>
 
 
-- 🌱 I’m currently learning **Encoder-Decoder Sequence to Sequence Model**
+- 🌱 I’m currently learning **GAN**
 
 - 📝 My publications: [https://orcid.org/0009-0004-6231-2402](https://orcid.org/0009-0004-6231-2402)
 
