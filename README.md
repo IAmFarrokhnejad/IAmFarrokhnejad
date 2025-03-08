@@ -25,7 +25,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; width: 100%; box-sizing: border-box;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamfarrokhnejad&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&hide_border=true&order=1" height: auto; margin: 0;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfarrokhnejad&theme=gotham&hide_border=true" alt="Streak Stats" height: auto; margin: 0;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfarrokhnejad&theme=gotham&hide_border=true" alt="Streak Stats" height: auto; margin: 0; width: 20%;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarrokhnejad&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=pie" alt="Top Languages" height: auto; margin: 0;" />
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfarrokhnejad&theme=gotham&hide_border=true" alt="Streak Stats" height: auto; margin: 0;" /> -->
 </div>
