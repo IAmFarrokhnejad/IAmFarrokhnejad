@@ -1,4 +1,4 @@
-![MasterHead](https://38.media.tumblr.com/3428f0477cfaad1bb439a82ba30990cf/tumblr_n9yyjcT3pl1th1t41o1_1280.gif)
+![MasterHead](https://raw.githubusercontent.com/iamfarrokhnejad/iamfarrokhnejad/main/gif.gif)
 
 <h1 align="center">Hi ⚡, I'm Morteza Farrokhnejad</h1>
 <h4 align="center">Full-Stack Developer | SRE | Information Technology Consultant | Teaching and Research Assistant</h3>
