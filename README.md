@@ -98,7 +98,7 @@
     <td><a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="josn" width="40" height="40"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/></a></td>
+    <td><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/></a></td>
     <td><a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/></a></td>
     <td><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1772977014" alt="assembly" width="40" height="40"/></a></td>
     <td><a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/></a></td>
